@@ -1,0 +1,72 @@
+.upperbg{
+    background-image: url(https://5.imimg.com/data5/JE/WG/MY-2/natural-roasted-coffee-beans-500x500.jpg) ;
+    padding: 0;
+    height: fit-content;
+}
+.bannerimage1 {
+    background-image: url(./images/mainBody/Banners/sub-banner-1.jpg );
+    background-repeat: no-repeat ;background-position: center;
+    background-size: 100%;
+}
+
+.bannerimage2 {
+    background-image: url(./images/mainBody/Banners/sub-banner-2.jpg );
+    background-repeat: no-repeat ;background-position: center;
+    background-size: 100%;}
+
+.bannerimage3 {
+    background-image: url(./images/mainBody/Banners/sub-banner-3.jpg );
+    background-repeat: no-repeat ;background-position: center; 
+    background-size: 100%;}
+
+.bannerimage4 {
+    background-image: url(./images/mainBody/Banners/cms-banner-1.jpg );
+    background-repeat: no-repeat; background-position: center;
+    background-size: 100%;
+}
+
+.bannerimage5 {
+    background-image: url(./images/mainBody/Banners/cms-banner-2.jpg );
+    background-repeat: no-repeat ;background-position: center;
+    background-size: 100%;
+}
+
+.offerbanner {
+    background-image: url(./images/mainBody/Banners/offer-banner.jpg );
+
+
+    background-repeat: no-repeat
+}
+
+.reviewimage1 {
+    background-color: #333F49;
+}
+
+
+.footer {
+    background-color: #333F49;
+}
+
+.online {
+    border: #918282 solid 1px;
+    border-radius: 0px 0px 0px 30px;
+}
+
+.ourteam {
+    border: #918282 solid 1px;
+    border-radius: 0px 0px 0px 30px;
+}
+
+.testimonial {
+    border: #918282 solid 1px;
+    border-radius: 30px 0px 0px 30px;
+
+}
+
+.fbbtn {
+    background-color: #0044ff;
+}
+
+.googlebtn {
+    background-color: #ff0000;
+}
